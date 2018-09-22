@@ -1,1 +1,1 @@
-set paste
+set pastetoggle=<F2>
